@@ -1,0 +1,36 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+                       Version 3, 19 November 2007
+
+ Copyright (C) 2026 Sourav Mondal (Velocity07)
+
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  The GNU Affero General Public License is a free, copyleft license for
+software and other kinds of works, specifically designed to ensure
+cooperation with the community in the case of network server software.
+
+  The licenses for most software and other practical works are designed
+to take away your freedom to share and change the works.  By contrast,
+our General Public Licenses are intended to guarantee your freedom to
+share and change all versions of a program--to make sure it remains free
+software for all its users.
+
+                       TERMS AND CONDITIONS
+
+  0. Definitions.
+  "This License" refers to version 3 of the GNU Affero General Public License.
+  "Copyright" also means copyright-like laws that apply to other kinds of works.
+  "The Program" refers to any copyrightable work licensed under this License.
+  Each licensee is addressed as "you".  "Licensees" and "recipients" may
+  be individuals or organizations.
+
+  [Conveying Verbatim Copies, Modified Versions, and Complete Corresponding Source]
+  You may copy and distribute verbatim copies of the Program's source code as
+  you receive it, in any medium, provided that you conspicuously and
+  appropriately publish on each copy an appropriate copyright notice.
+  
+  If you modify the Program, your modified works must also be prominently 
+  licensed under AGPLv3 with the complete corresponding source made available.
