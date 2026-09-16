@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="assets/banner.png" alt="Harpa — AI Synthesis Binder" width="100%" style="border-radius: 12px; box-shadow: 0 20px 50px rgba(0,0,0,0.4);" />
 </p>
